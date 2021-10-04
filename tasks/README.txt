@@ -1,0 +1,1 @@
+https://habr.com/ru/company/rebrainme/blog/540354 - Разбор задач.

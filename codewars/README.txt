@@ -1,0 +1,1 @@
+Решение задач с https://www.codewars.com
